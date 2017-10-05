@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Bob Belcher"
-resume_title:                   "Restaurant Owner"
+resume_tistle:                   "Restaurant Owner"
 resume_contact_email:           "bbelcher@bobsburgers.com"
 resume_contact_telephone:       "123-4567"
 resume_contact_address:         "Ocean Avenue, Long Island, NY"
